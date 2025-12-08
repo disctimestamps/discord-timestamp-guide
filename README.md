@@ -6,4 +6,5 @@ The easiest way to create relative time tags (e.g., "In 2 hours") for Discord me
 * Mobile Friendly
 * Ad-Free
 
-[**Use the Tool Here**](https://disctimestamps.com)
+
+Welcome to the official issue tracker and guide for DiscTimestamps. To generate your timestamps, visit our live tool here:(https://disctimestamps.com)
