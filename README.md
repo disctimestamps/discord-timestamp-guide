@@ -6,7 +6,7 @@
 
 > **Live Site:** [https://disctimestamps.com](https://disctimestamps.com)  
 > **Twitter/X:** [@DiscTimestamps](https://x.com/DiscTimestamps)  
-> **Medium Guide:** [Read the Technical Breakdown](https://medium.com/@disctimestamps/how-to-create-dynamic-timestamps-in-discord-the-complete-2025-guide-07dd70aea08f)
+> **Medium Guide:** [Read the Technical Breakdown]([https://medium.com/@disctimestamps/how-to-create-dynamic-timestamps-in-discord-the-complete-2025-guide-07dd70aea08f
 
 ---
 
@@ -46,36 +46,3 @@ This project is not just a date picker; it is a suite of 5 distinct tools built 
 
 ---
 
-## 📦 Getting Started
-
-If you want to run this project locally:
-
-1.  **Clone the repository**
-    ```bash
-    git clone [https://github.com/yourusername/disctimestamps.git](https://github.com/yourusername/disctimestamps.git)
-    cd disctimestamps
-    ```
-
-2.  **Install dependencies**
-    ```bash
-    npm install
-    ```
-
-3.  **Start the development server**
-    ```bash
-    npm run dev
-    ```
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! If you have an idea for a new tool (e.g., an Embed Builder or Emoji Stealer), feel free to open an issue or submit a Pull Request.
-
-1.  Fork the Project
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the Branch (`git push origin feature/AmazingFeature`)
-5.  Open a Pull Request
-
----
